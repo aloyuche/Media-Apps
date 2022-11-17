@@ -3,6 +3,8 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
 import { Auth0Provider } from "@auth0/auth0-react";
+// import "../node_modules/bootstrap/dist/css/bootstrap/min.css";
+// import "../node_modules/font-awesome/css/font-awesome.css";
 
 const domain = "dev-opzwus4ncwryyeeu.us.auth0.com";
 const clientId = "g9QGZuN5C6j8Bu3WFVsiT11HxBWcPQMy";
