@@ -1,14 +1,15 @@
-import "./App.css";
-import LoginButton from "./components/LoginButton";
-import LogoutButton from "./components/LogoutButton";
+import Navbar from "./components/Navbar";
+import Home from "./container/Home";
+import Social from "./container/Social";
+//import Auth from "./container/Auth";
 
 function App() {
   return (
-    <main className="column">
-      <h1>Auth0 Login</h1>
-      <LoginButton />
-      <LogoutButton />
-    </main>
+    <div className="">
+      <Navbar />
+      <Home />
+      <Social />
+    </div>
   );
 }
 

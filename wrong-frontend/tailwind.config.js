@@ -81,9 +81,6 @@ module.exports = {
         height: "height",
       },
     },
-    fontFamily: {
-      signature: ["Great Vibes"],
-    },
     cursor: {
       "zoom-in": "zoom-in",
       pointer: "pointer",
