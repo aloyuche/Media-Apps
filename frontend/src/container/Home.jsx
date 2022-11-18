@@ -1,6 +1,6 @@
 import React from "react";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
-import Portfolio from "../assets/uc.jpg";
+import Portfolio from "../asset/uc.jpg";
 
 const Home = () => {
   return (
