@@ -1,6 +1,6 @@
 import React from "react";
 
-const Contact = () => {
+const Contacts = () => {
   return (
     <div
       name="contact"
@@ -9,14 +9,14 @@ const Contact = () => {
       <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
-            Cotact
+            Contacts
           </p>
           <p className="py-6">Submit the form below to get in touch with me</p>
         </div>
 
         <div className=" flex justify-center items-center">
           <form
-            action="https://getform.io/f/61c99527-2b15-42cf-9b55-ad37d2f7daa6"
+            action="https://getform.io/f/b7758ff5-2c21-4721-a483-845430310610"
             method="POST"
             className=" flex flex-col w-full md:w-1/2"
           >
@@ -24,11 +24,13 @@ const Contact = () => {
               type="text"
               name="name"
               placeholder="Enter your name"
+              required
               className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
             />
             <input
               type="text"
               name="email"
+              required
               placeholder="Enter your email"
               className="my-4 p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
             />
@@ -49,4 +51,4 @@ const Contact = () => {
   );
 };
 
-export default Contact;
+export default Contacts;

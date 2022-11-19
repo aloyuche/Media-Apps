@@ -1,6 +1,7 @@
 import React from "react";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import Portfolio from "../asset/uc.jpg";
+import {Link} from 'react-scroll'
 
 const Home = () => {
   return (
@@ -19,9 +20,9 @@ const Home = () => {
             NextJs, Tailwind, MongoDb and Sanity
           </p>
           <div>
-            <button className="text-white w-fit py-3 px-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500">
+            <Link to ="portfolio" smooth duration = {500} className="text-white w-fit py-3 px-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500">
               Portfolio <MdOutlineKeyboardArrowRight />
-            </button>
+            </Link>
           </div>
         </div>
         <div>

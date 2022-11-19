@@ -2,7 +2,7 @@ import React from "react";
 import arrayDestruct from "../asset/rwrt.jpg";
 import installNode from "../asset/nodejs.png";
 import navbar from "../asset/navbar.jpg";
-import reactParallax from "../asset/reactTut.jpg";
+import reactParallax from "../asset/reactParallax.jpg";
 import reactSmooth from "../asset/reactforcast.jpg";
 import reactWeather from "../asset/reactTut.jpg";
 const Portfolio = () => {
@@ -36,7 +36,7 @@ const Portfolio = () => {
   return (
     <div
       name="portfolio"
-      className="bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-screen"
+      className="bg-gradient-to-b gap-5 from-black to-gray-800 w-full text-white md:h-screen"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
