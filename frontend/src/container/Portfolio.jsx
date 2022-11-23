@@ -40,13 +40,13 @@ const Portfolio = () => {
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-4">
-          <p className="text-4xl py-3 font-bold inline border-b-4 border-gray-500">
+          <p className="text-4xl py-3 md:py-6 font-bold inline border-b-4 border-gray-500">
             Portfolio
           </p>
           <p className="py-2">Check out some of my work right here</p>
         </div>
 
-        <div className="grid mb-23 sm:grid-cols-2 pb-29 md:grid-cols-3 gap-8 px-12 sm:px-0">
+        <div className="grid mb-15 sm:grid-cols-2 pb-29 md:grid-cols-3 gap-8 px-12 sm:px-0">
           {portfolios.map(({ id, src }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <img
