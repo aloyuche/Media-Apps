@@ -11,7 +11,7 @@ const Home = () => {
       className="h-full w-full mt-4 bg-gradient-to-b from-black via-black to-gray-800"
     >
       {/* <Auth /> */}
-      <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
+      <div className="max-w-screen-lg mx-auto mt-10 flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-3xl sm:text-5xl font-bold text-white">
             I am a fullStack Developer
