@@ -15,9 +15,7 @@ function App() {
       <About />
       
       <Portfolio />
-      <div className=" py-6 pb-10 bg-gradient-to-b from-gray-800 to-gray-600 h-4">
-        <hr />
-      </div>
+      
       <Experience />
       <Contact />
 
