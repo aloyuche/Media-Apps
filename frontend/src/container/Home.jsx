@@ -1,6 +1,6 @@
 import React from "react";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
-import Portfolio from "../asset/uc.jpg";
+import Portfolio from "../asset/IMG-20231110-WA0015.jpg";
 import { Link } from "react-scroll";
 // import Auth from "./Auth";
 
