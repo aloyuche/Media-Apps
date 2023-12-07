@@ -14,9 +14,9 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto pt-10 flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-3xl sm:text-5xl font-bold text-white">
-            I am a fullStack Developer
+            "I am FOCUSED on SOLVING Problems"
           </h2>
-          <p className="text-gray-500 py-4 max-w-md">
+          <p className="text-gray-300 py-4 max-w-md">
             Everything beautiful, everything attractive live on the other side 'FEAR" is hindering you to go.
             God put everything amazing on the other side of FEAR. The only thing to fear is FEAR!
             "One of the main weakness of mankind is the average man's familiarity with the word <b>'IMPOSSIBLE'</b>."
