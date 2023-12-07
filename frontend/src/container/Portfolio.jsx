@@ -1,6 +1,6 @@
 import React from "react";
 import arrayDestruct from "../asset/p0.jpg";
-import installNode from "../asset/p1.jpg";
+import installNode from "../asset/p6.jpg";
 import navbar from "../asset/p3.jpg";
 import reactParallax from "../asset/p4.jpg";
 import reactSmooth from "../asset/p2.jpg";
@@ -36,7 +36,7 @@ const Portfolio = () => {
   return (
     <div
       name="portfolio"
-      className="bg-gradient-to-b  pt-12 gap-5 h-full from-black to-gray-800 w-full text-white md:h-screen"
+      className="bg-gradient-to-b from-black to-gray-800 pt-12 gap-5 h-full w-full text-white md:h-screen"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-4">
