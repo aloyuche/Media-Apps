@@ -29,7 +29,7 @@ const Social = () => {
           <FaFacebook size={25} />
         </>
       ),
-      href: "http://facebook.com",
+      href: "https://web.facebook.com/profile.php?id=100090746272163",
     },
     {
       id: 3,
