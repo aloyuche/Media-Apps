@@ -13,11 +13,9 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-lg text-justify w-50 mt-10">
+        <p className="text-lg text-justify w-md mt-10">
           <h1>UNDERSTANDING HOW YOUR BRAIN WORKS IS VERY IMPORTANT</h1>
-          We are service provider assisting to achieve their dreams. At CheloyTec we help understand your "WHY"
-          What is your extent of living without impacting lives?
-          We aim at taking millions of people out of povrty.
+          We are service provider assisting to achieve their dreams. At CheloyTec we help understand your "WHY" What is your extent of living without impacting lives.We aim at taking millions of people out of poverty.
           !
         </p>
 
