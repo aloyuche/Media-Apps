@@ -14,23 +14,18 @@ const About = () => {
         </div>
 
         <p className="text-lg text-justify mt-10">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          We are service provider assisting to achieve their dreams. At CheloyTec we help understand your "WHY"
+          What is your extent of living without impacting lives?
+          We aim at taking millions of people out of povrty.
+          !
         </p>
 
         <br />
 
         <p className="text-lg">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          Unless you change how you think there will be a limit of how much you earn.
+          CheloyTec, specialized in business development, system analysis, financial coach, and health advisor.
+          A million dollar in your pocket  may not make you happy, so you gonna learn to be happy with yourself.
         </p>
       </div>
     </div>
