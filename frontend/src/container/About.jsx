@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-base text-justify w-full flex-cols-2 sm:flex-cols-3 py-8 px-12 sm:px-0">
-          <h1 className ="text-xl font=bold text-orange-200">UNDERSTANDING HOW YOUR BRAIN WORKS IS VERY IMPORTANT</h1>
+          <h1 className ="text-4xl font-bold text-orange-200">UNDERSTANDING HOW YOUR BRAIN WORKS IS VERY IMPORTANT</h1>
           We are service provider assisting to achieve their dreams. At CheloyTec we help understand your "WHY".
           What is your extent of living without impacting lives.We aim at taking millions of people out of poverty.
       
