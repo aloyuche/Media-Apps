@@ -1,6 +1,6 @@
 import React from "react";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
-import Portfolio from "../asset/IMG-20231110-WA0015.jpg";
+import Portfolio from "../asset/uc.png";
 import { Link } from "react-scroll";
 // import Auth from "./Auth";
 
@@ -17,9 +17,10 @@ const Home = () => {
             I am a fullStack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 4 years experience in wweb development and 6 years in system
-            support and analysis, Currently I love to work on web using ReactJs,
-            NextJs, Tailwind, MongoDb and Sanity
+            Everything beautiful, everything attractive live on the other side 'FEAR" is hindering you to go.
+            God put everything amazing on the other side of FEAR. The only thing to fear is FEAR!
+            "One of the main weakness of mankind is the average man's familiarity with the word <b>'IMPOSSIBLE'</b>."
+            "You are the MASTER of YOUR Fate and the CAPTAIN of your SOUL."
           </p>
           <div>
             <Link
