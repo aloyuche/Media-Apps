@@ -4,7 +4,7 @@ import installNode from "../asset/p2.jpg";
 import navbar from "../asset/p6.jpg";
 import reactParallax from "../asset/p4.jpg";
 import reactSmooth from "../asset/p1.jpg";
-import reactWeather from "../asset/p9.jpg";
+import reactWeather from "../asset/p0.jpg";
 const Portfolio = () => {
   const portfolios = [
     {
