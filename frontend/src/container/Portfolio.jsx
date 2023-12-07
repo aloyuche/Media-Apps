@@ -1,9 +1,9 @@
 import React from "react";
-import arrayDestruct from "../asset/p2.jpg";
+import arrayDestruct from "../asset/p9.jpg";
 import installNode from "../asset/p1.jpg";
 import navbar from "../asset/p6.jpg";
 import reactParallax from "../asset/p4.jpg";
-import reactSmooth from "../asset/p5.jpg";
+import reactSmooth from "../asset/p2.jpg";
 import reactWeather from "../asset/p0.jpg";
 const Portfolio = () => {
   const portfolios = [
@@ -56,10 +56,10 @@ const Portfolio = () => {
               />
               <div className="flex items-center justify-center">
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Demo
+                  START
                 </button>
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Code
+                  NOW
                 </button>
               </div>
             </div>
