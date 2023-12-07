@@ -1,10 +1,10 @@
 import React from "react";
-import arrayDestruct from "../asset/p9.jpg";
+import arrayDestruct from "../asset/p0.jpg";
 import installNode from "../asset/p1.jpg";
 import navbar from "../asset/p3.jpg";
 import reactParallax from "../asset/p4.jpg";
 import reactSmooth from "../asset/p2.jpg";
-import reactWeather from "../asset/p0.jpg";
+import reactWeather from "../asset/p9.jpg";
 const Portfolio = () => {
   const portfolios = [
     {
